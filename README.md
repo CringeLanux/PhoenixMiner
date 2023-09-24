@@ -1,0 +1,2 @@
+# PhoenixMiner
+Just the exe
